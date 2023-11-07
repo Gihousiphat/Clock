@@ -1,0 +1,29 @@
+#header {
+    width:50%;
+    padding:30px 0;
+    margin: 0 auto;
+    text-align: center;
+    font-weight:bold;
+    font-size: 3em;
+}
+
+#time {
+    width:50%;
+    padding:20px 0;
+    margin: 0 auto;
+    text-align: center;
+    font-weight:bold;
+    font-size: 3em;
+}
+
+#date {
+    width:50%;
+    margin: 0 auto;
+    text-align:center;
+}
+
+#military {
+    display:block;
+    width:100px;
+    margin:20px auto;
+}
